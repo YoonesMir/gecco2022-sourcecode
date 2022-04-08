@@ -77,6 +77,7 @@ void hit_initial(){
 }
 void setup()
 {
+  // Each robot must have its unique ID
   _id = 6;
 
 
